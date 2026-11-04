@@ -1,0 +1,21 @@
+{
+  "hand_joint": "L6",
+  "hand_type": "right",
+  "created": "2026-11-04T16:48:29",
+  "open": {
+    "thumb_pitch": 21.39,
+    "thumb_yaw": 34.25,
+    "index": 14.24,
+    "middle": 13.81,
+    "ring": 10.77,
+    "pinky": 15.93
+  },
+  "closed": {
+    "thumb_pitch": 51.07,
+    "thumb_yaw": 14.79,
+    "index": 199.27,
+    "middle": 258.17,
+    "ring": 241.64,
+    "pinky": 227.59
+  }
+}
