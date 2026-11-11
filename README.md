@@ -1,9 +1,9 @@
 <img  src="resource/logo.png" width="800">
 
-# LinkerHand-Python-SDK
+# LinkerHand-Python-SDK-Mimic
 
 ## Overview
-LinkerHand Python SDK
+LinkerHand Python SDK Mimic
 
 [中文](README_CN.md)  |  [English](README.md)
 
